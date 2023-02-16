@@ -1,5 +1,5 @@
 # Python---Machine-Learning---Mosh-s-course
-Simple project from course _Python Full Course for Beginners_.
+Simple project using Machine Learning from course _Python Full Course for Beginners_.
 
 ## Table of Contents
 * [General Info](#general-information)

@@ -9,8 +9,7 @@ Simple project using Machine Learning from course _Python Full Course for Beginn
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
-Project builds a training model based on the genres of music listened to by people of different genders and ages, 
-and based on this model makes pradictions about what kind of music other people will listen to.
+Project builds a training model based on the genres of music listened to by people of different genders and ages, and based on this model makes predictions about what kind of music other people will listen to.
 The project performs a self-assessment of the accuracy of its assumptions.
 
 ## Technologies Used
